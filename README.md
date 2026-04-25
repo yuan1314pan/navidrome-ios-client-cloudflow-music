@@ -12,12 +12,12 @@ A modern, fast and offline-first iOS client for Navidrome.
 
 ## 📸 Screenshots
 
-(放你的App截图，至少3张)
+
 
 ## 🚀 Download
 
-- App Store: (你的链接)
-- TestFlight: (如果有)
+- App Store: https://apps.apple.com/us/app/cloudflow-music/id6761190341
+
 
 ## 🤔 Why this app?
 
