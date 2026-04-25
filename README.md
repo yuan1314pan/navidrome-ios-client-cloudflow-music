@@ -1,9 +1,13 @@
-Cloudflow Music – Navidrome iOS Client
+# Cloudflow Music – Navidrome iOS Client
 
-A clean, private, and intelligent iOS client for Navidrome.
+A clean, private, and intelligent iOS client for Navidrome.  
 Your music, your server, your rules.
-<img width="1242" height="2688" alt="3" src="https://github.com/user-attachments/assets/e83dfa1b-615b-4ae1-bf71-55668280f69c" />
-<img width="1242" height="2688" alt="5" src="https://github.com/user-attachments/assets/c6c3d512-9196-4a5f-8fbd-892d48870002" />
+
+<!-- 横向排列图片 -->
+<p align="center">
+  <img width="600" height="auto" src="https://github.com/user-attachments/assets/e83dfa1b-615b-4ae1-bf71-55668280f69c" />
+  <img width="600" height="auto" src="https://github.com/user-attachments/assets/c6c3d512-9196-4a5f-8fbd-892d48870002" />
+</p>
 
 🎯 Built for people who:
 Run a Navidrome server but are tired of limited clients
