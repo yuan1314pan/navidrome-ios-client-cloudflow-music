@@ -1,4 +1,4 @@
-# Cloudflow Music – Navidrome iOS Client
+<h1>Cloudflow Music – Navidrome iOS Client</h1>
 
 一款干净、私密且智能的 Navidrome iOS 客户端。  
 你的音乐，你的服务器，你的规则。
@@ -74,12 +74,18 @@
 
 ## English Version
 
-# Cloudflow Music – Navidrome iOS Client
+<h1>Cloudflow Music – Navidrome iOS Client</h1>
 
 A clean, private, and intelligent iOS client for Navidrome.  
 Your music, your server, your rules.
 
 ---
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/e83dfa1b-615b-4ae1-bf71-55668280f69c" width="33%" />
+  <img src="https://github.com/user-attachments/assets/c6c3d512-9196-4a5f-8fbd-892d48870002" width="33%" />
+  <img src="https://github.com/user-attachments/assets/fb685f57-4e12-4ffe-9b2d-0ae48e0ac007" width="33%" />
+</div>
 
 ### 🎯 Built for people who:
 
