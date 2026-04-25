@@ -9,7 +9,10 @@ App Store: Cloudflow Music
 
 
 <div style="display: flex; justify-content: center;">
-  <img width="600" height="auto" src="https://github.com/user-attachments/assets/c6c3d512-9196-4a5f-8fbd-892d48870002" />
+  <img src="https://github.com/user-attachments/assets/e83dfa1b-615b-4ae1-bf71-55668280f69c" width="33%" />
+  <img src="https://github.com/user-attachments/assets/c6c3d512-9196-4a5f-8fbd-892d48870002" width="33%" />
+<img src="https://github.com/user-attachments/assets/fb685f57-4e12-4ffe-9b2d-0ae48e0ac007" width="33%"/>
+
 </div>
 
 🎯 Built for people who:
