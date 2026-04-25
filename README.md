@@ -1,18 +1,18 @@
-<h1>Cloudflow Music – Navidrome iOS Client</h1>
+# Cloudflow Music – Navidrome iOS Client
 
-一款干净、私密且智能的 Navidrome iOS 客户端。  
-你的音乐，你的服务器，你的规则。
+A clean, private, and intelligent iOS client for Navidrome.  
+Your music, your server, your rules.
 
 ---
 
-### 🌐 语言选择 / Language Selection
+### 🌐 Language Selection / 语言选择
 
-- [中文](#中文部分)
 - [English](#english-version)
+- [中文](#中文部分)
 
 ---
 
-## 🚀 下载链接 / Download Link
+## 🚀 Download Link / 下载链接
 
 [Cloudflow Music](https://apps.apple.com/us/app/cloudflow-music/id6761190341)
 
@@ -21,6 +21,63 @@
     <img width="33%" height="auto" src="https://github.com/user-attachments/assets/8741f03c-f9ed-420b-8b88-755814f29617" />
     <img width="33%" height="auto" src="https://github.com/user-attachments/assets/577aba15-a8ab-4745-852d-9017399fc7f4" />
 </p>
+
+---
+
+### 🎯 Built for people who:
+
+- Run a Navidrome server but are tired of limited clients  
+- Have thousands of songs with messy or missing metadata  
+- Want offline listening without manual downloading  
+- Care about privacy — no ads, no tracking, no data collection  
+
+---
+
+### ✨ Key Features / 主要功能
+
+#### 🔗 Seamless Navidrome Integration / 无缝集成 Navidrome
+- Full support for Navidrome / Subsonic API  
+- Connect to your self-hosted music library in seconds  
+- Your data stays on your server — always  
+
+#### 🧠 AI-Powered Music Organization / AI 驱动的音乐组织
+- Automatically generate tags (genre, mood, era, etc.)  
+- Smart playlists based on your listening habits  
+- Continuously evolving recommendations  
+
+#### 🎧 Offline-First Experience / 离线优先体验
+- Batch download your music effortlessly  
+- Smart caching (Wi-Fi auto preload)  
+- Designed for real offline listening  
+
+#### 🎵 Immersive Player / 沉浸式播放器
+- Full-screen album artwork experience  
+- Smooth, native iOS interactions  
+- Background playback & lock screen controls  
+
+#### 🚗 Car & Automation Ready / 车载与自动化支持
+- Apple CarPlay support  
+- iOS Shortcuts integration (e.g. auto-play when connecting to car Bluetooth)  
+
+#### 🔍 Powerful Search / 强大的搜索功能
+- Search by song, artist, album, or tags  
+- Fast access with search history  
+
+#### 🔒 Privacy First / 隐私至上
+- No ads  
+- No tracking  
+- No analytics  
+
+**Your music is yours. Period. / 你的音乐，只有你掌控。**
+
+---
+
+## 中文部分 / Chinese Version
+
+# Cloudflow Music – Navidrome iOS 客户端
+
+一款干净、私密且智能的 Navidrome iOS 客户端。  
+你的音乐，你的服务器，你的规则。
 
 ---
 
@@ -72,63 +129,9 @@
 
 ---
 
-## English Version
+### 说明：
+- 默认展示 **英文部分**，用户可以点击链接快速跳转到 **中文部分**。
+- 语言选择放置在文档顶部，确保用户可以快速选择他们所需的语言。
+- 这样做可以帮助用户根据自己语言的偏好进行阅读。
 
-<h1>Cloudflow Music – Navidrome iOS Client</h1>
-
-A clean, private, and intelligent iOS client for Navidrome.  
-Your music, your server, your rules.
-
----
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/e83dfa1b-615b-4ae1-bf71-55668280f69c" width="33%" />
-  <img src="https://github.com/user-attachments/assets/c6c3d512-9196-4a5f-8fbd-892d48870002" width="33%" />
-  <img src="https://github.com/user-attachments/assets/fb685f57-4e12-4ffe-9b2d-0ae48e0ac007" width="33%" />
-</div>
-
-### 🎯 Built for people who:
-
-- Run a Navidrome server but are tired of limited clients  
-- Have thousands of songs with messy or missing metadata  
-- Want offline listening without manual downloading  
-- Care about privacy — no ads, no tracking, no data collection  
-
----
-
-### ✨ Key Features
-
-#### 🔗 Seamless Navidrome Integration
-- Full support for Navidrome / Subsonic API  
-- Connect to your self-hosted music library in seconds  
-- Your data stays on your server — always  
-
-#### 🧠 AI-Powered Music Organization
-- Automatically generate tags (genre, mood, era, etc.)  
-- Smart playlists based on your listening habits  
-- Continuously evolving recommendations  
-
-#### 🎧 Offline-First Experience
-- Batch download your music effortlessly  
-- Smart caching (Wi-Fi auto preload)  
-- Designed for real offline listening  
-
-#### 🎵 Immersive Player
-- Full-screen album artwork experience  
-- Smooth, native iOS interactions  
-- Background playback & lock screen controls  
-
-#### 🚗 Car & Automation Ready
-- Apple CarPlay support  
-- iOS Shortcuts integration (e.g. auto-play when connecting to car Bluetooth)  
-
-#### 🔍 Powerful Search
-- Search by song, artist, album, or tags  
-- Fast access with search history  
-
-#### 🔒 Privacy First
-- No ads  
-- No tracking  
-- No analytics  
-
-**Your music is yours. Period.**
+如果这样修改后，用户可以方便地根据需要查看英文或中文版本的内容。
