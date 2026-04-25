@@ -1,4 +1,4 @@
-# navidrome-ios-client-cloudflow-music
+7# navidrome-ios-client-cloudflow-music
 # Cloudflow Music – Navidrome iOS Client
 
 A clean, private and intelligent iOS client for Navidrome.  
@@ -69,14 +69,14 @@ Your music is yours. Period.
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+
 
 ---
 
 ## 🚀 Download
 
-- App Store: (your link)
-- TestFlight: (optional)
+- App Store: https://apps.apple.com/us/app/cloudflow-music/id6761190341
+
 
 ---
 
